@@ -2,5 +2,8 @@
 thread/
 #logs
 logs/
+alerts/
+ml_logs.jsonl
+
 #pycache
 __pycache__/
