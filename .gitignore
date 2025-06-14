@@ -1,2 +1,6 @@
 #virtual environment
 thread/
+#logs
+logs/
+#pycache
+__pycache__/
